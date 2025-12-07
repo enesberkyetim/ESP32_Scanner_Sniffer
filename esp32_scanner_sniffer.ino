@@ -1,5 +1,5 @@
 /*
- * Project Name: ESP32 Raw WiFi Pentesting Tool
+ * Project Name: ESP32 Scanner Sniffer Wifi Pentesting Tool
  * Author:       Enes Berk Yetim
  * Year:         2025
  * Platform:     ESP32 (Espressif Systems)
