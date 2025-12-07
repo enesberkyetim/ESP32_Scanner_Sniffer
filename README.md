@@ -41,7 +41,7 @@ This project was built to explore the "low-level" aspects of wireless security, 
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/enesberkyetim/ESP32_Scanner_Sniffer.git](https://github.com/yourusername/ESP32_Scanner_Sniffer.git)
+    git clone https://github.com/enesberkyetim/ESP32_Scanner_Sniffer.git
     ```
 2.  **Flash the Firmware**
     * Open the `.ino` file in Arduino IDE.
